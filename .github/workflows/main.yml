@@ -1,0 +1,3 @@
+              - name: Trigger Workflow and Wait
+                uses: convictional/trigger-workflow-and-wait@v1.6.5
+            
